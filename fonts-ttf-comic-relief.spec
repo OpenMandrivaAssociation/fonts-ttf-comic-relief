@@ -1,6 +1,6 @@
 Name:		fonts-ttf-comic-relief
 Version:	1.0
-Release:	1
+Release:	2
 Summary:	Comic Relief ttf fonts
 License:	SIL Open Font License v1.10
 Group:		System/Fonts/True type
